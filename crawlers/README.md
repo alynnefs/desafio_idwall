@@ -28,3 +28,18 @@ Construir um robô que nos envie essa lista via Telegram sempre que receber o co
 
 
 Qualquer método para coletar os dados é válido. Caso não saiba por onde começar, procure por SeleniumHQ (Java), PhantomJS (Javascript) e Scrapy (Python).
+
+## Entrada
+
+### Parte 1
+
+Use ```python3 crawler_parte1.py 'exemplo1;exemplo2'"```, deixando os tópicos entre aspas e separados por ponto-e-vírgula (;).
+
+### Parte 2
+
+- Execute ```pip3 install -r requirements.txt``` para instalar as dependências.
+- Execute ```python3 crawler_parte2.py```
+- Procure por ```@crawlersredditbot```, que tem CrawlerReddit por nome.
+- Pesquise da seguinte maneira: ```/NadaPraFazer exemplo1;exemplo2```, separando os tópicos com ponto-e-vírgula (;)
+
+

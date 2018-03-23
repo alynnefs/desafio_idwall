@@ -37,3 +37,13 @@ O exemplo de output está [neste arquivo](https://github.com/idwall/desafios/blo
 - Uso do Docker.
 - Parametrização da quantidade de caracteres por linha.
 - Utilizar as versões mais atuais da linguagem que escolher para desenvolver (JavaScript ES6+; Java 8; Python 3, etc).
+
+## Solução
+
+### Parte 1
+
+Use ```python3 string_parte1.py 'texto' [quantidade]``` para executar a primeira parte do desafio.
+
+### Parte 2
+
+Use ```python3 string_parte2.py 'texto' [quantidade]``` para executar a segunda parte do desafio.
